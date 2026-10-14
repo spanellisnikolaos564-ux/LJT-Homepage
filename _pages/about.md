@@ -13,9 +13,9 @@ I am a first-year Ph.D. candidate in the **HKUST NLP Group** at the **Hong Kong 
 
 ## Education
 
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST) \&mdash; 2024 &ndash; Present
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST) &mdash; 2024 &ndash; Present
   - HKUST NLP Group, supervised by Professor Junxian He
-- **B.Eng.**, Shanghai Jiao Tong University (SJTU) \&mdash; 2020 &ndash; 2024
+- **B.Eng.**, Shanghai Jiao Tong University (SJTU) &mdash; 2020 &ndash; 2024
   - Graduated in June 2024; advised by Professor Junxian He
 
 ### Honors
@@ -24,10 +24,10 @@ I am a first-year Ph.D. candidate in the **HKUST NLP Group** at the **Hong Kong 
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX \&mdash; February 2025 &ndash; Present
-- **Research Intern**, Tencent WXG \&mdash; June 2024 &ndash; September 2024
+- **Research Intern**, MINIMAX &mdash; February 2025 &ndash; Present
+- **Research Intern**, Tencent WXG &mdash; June 2024 &ndash; September 2024
   - Advised by Zifei Shan
-- **Research Intern**, Shanghai AI Lab \&mdash; June 2023 &ndash; December 2023
+- **Research Intern**, Shanghai AI Lab &mdash; June 2023 &ndash; December 2023
   - Advised by Prof. Yu Cheng
 
 ## Research Interests
@@ -76,7 +76,7 @@ My research focuses on natural language processing and machine learning, with pa
    Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He<br />
    *NeurIPS 2023*
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications](..{{ base_path }}/publications/) page of this website.
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and on the [Publications]({{ base_path }}/publications/) page of this website.
 
 ## Contact
 
